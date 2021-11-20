@@ -1,0 +1,23 @@
+/*Estilos Celular */
+
+@media screen and (min-width: 20em) {
+  body {
+    font-size: 70%;
+  }
+  p {
+    font-size: 1em;
+  }
+}
+/*Estilos tablet */
+
+@media screen and (min-width: 47em) {
+  body {
+    font-size: 20%;
+  }
+}
+/*Estilos PC Escritorio */
+@media screen and (min-width: 60em) {
+  body {
+    font-size: 120%;
+  }
+}
